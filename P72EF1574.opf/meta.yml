@@ -1,0 +1,28 @@
+id: P72EF1574
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG5478
+  instance_id: http://purl.bdrc.io/resource/IE1KG5478
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་པ་འཇིག་རྟེན་གསུམ་སྒྲོན།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P815
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1dcfbb618729431cb503931dc95f87e3:
+      title: སྐབས་བདུན་པ།སྐད་ཅིག་མའི་སྦྱོར་ཊཱིཀ
+      volume_number: 1
+      base_file: UT1KG5478_001_0007.txt
+      reference: http://purl.bdrc.io/resource/VLB9F4F3948DEEE662
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG5478
+  - http://purl.bdrc.io/resource/MW1KG5478
+created_at: '2021-12-24T17:26:19.722933'
+last_modified_at: '2021-12-24T17:26:19.722940'
