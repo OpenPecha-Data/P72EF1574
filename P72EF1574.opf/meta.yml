@@ -26,3 +26,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/MW1KG5478
 created_at: '2021-12-24T17:26:19.722933'
 last_modified_at: '2021-12-24T17:26:19.722940'
+statistics:
+  total_words: 156937
+  total_non_words: 17174
+quality:
+  non_words_ratio: 0.11
